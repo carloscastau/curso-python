@@ -1,5 +1,5 @@
 def run():
-    pass
+    number = [i for i in range(1, 100000) if i % 36 == 0]
     # sqares = []
     # for i in range(1, 101):
     #     if i % 3 == 0:
@@ -7,7 +7,7 @@ def run():
     #     else:
     #         sqares.append(i**2)
  
-    # print(sqares)        
+    print(number)        
 
 
 if __name__ == '__main__':
