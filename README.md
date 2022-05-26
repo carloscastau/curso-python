@@ -16,9 +16,6 @@
 
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
 
 # Preparación antes de empezar
 ## Zen de Python
