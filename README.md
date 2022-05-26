@@ -1,4 +1,6 @@
+
 #Curso de Python Intermedio Platzi
+
 ##Comprehensions, Lambdas y Manejo de Errores
 
 ![](https://static.platzi.com/media/achievements/badge-intermedio-de-python-d0d16518-5edd-450a-b2a9-0710bded1494.png)
